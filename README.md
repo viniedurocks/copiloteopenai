@@ -1,7 +1,7 @@
 
 ## Insights Copilot
 
-O **Copilot** é uma plataforma poderosa que permite realizar várias tarefas a partir de imagens. Aqui estão algumas das possibilidades:
+O **Copilot** é uma plataforma poderosa que permite realizar várias tarefas, saiba de algumas delas:
 
 1. **Extração de Texto**: O Copilot pode identificar e extrair texto contido em uma imagem.
 2. **Informações sobre a Imagem**: Ele fornece detalhes sobre a imagem, como descrições e elementos visuais.
